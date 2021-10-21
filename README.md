@@ -1,3 +1,8 @@
+> **WARNING**: this repository is outdated and has moved to:
+>
+> * https://opendev.org/openstack/charm-openstack-loadbalancer
+> * https://github.com/openstack/charm-openstack-loadbalancer
+
 # Overview
 
 The openstack-loadbalancer charm deploys a loadbalancer that can load balance
